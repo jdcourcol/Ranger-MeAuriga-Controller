@@ -1,5 +1,4 @@
-# mBot-Ranger-MeAuriga-MeRGBLed
+# Controller for Ranger robot: https://www.makeblock.com/pages/mbot-ranger-robot-building-kit
+Derivation of https://github.com/sei-kiu/mBot-Ranger-MeAuriga-MeRGBLed
 
-mBot Ranger is powered by Arduino Mega2560
-
-This example shows how to control the RGB LED ring on top of mBot Ranger MeAuriga.
+Instructions to the robot are communicated through bluetooth.
